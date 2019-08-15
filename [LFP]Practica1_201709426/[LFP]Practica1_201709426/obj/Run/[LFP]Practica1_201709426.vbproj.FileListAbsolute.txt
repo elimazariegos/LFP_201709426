@@ -1,0 +1,12 @@
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\bin\Run\[LFP]Practica1_201709426.exe.config
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\bin\Run\[LFP]Practica1_201709426.exe
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\MainWindow.g.vb
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\Application.g.vb
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\[LFP]Practica1_201709426_MarkupCompile.cache
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\[LFP]Practica1_201709426_MarkupCompile.lref
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\MainWindow.baml
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\[LFP]Practica1_201709426.g.resources
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\_LFP_Practica1_201709426.Resources.resources
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\[LFP]Practica1_201709426.vbproj.GenerateResource.cache
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\[LFP]Practica1_201709426.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\[LFP]Practica1_201709426\[LFP]Practica1_201709426\obj\Run\[LFP]Practica1_201709426.exe

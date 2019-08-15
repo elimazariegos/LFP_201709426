@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\bin\Debug\Ejemplo pdf.exe.config
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\bin\Debug\Ejemplo pdf.exe
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\bin\Debug\Ejemplo pdf.pdb
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\bin\Debug\Ejemplo pdf.xml
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\bin\Debug\itextsharp.dll
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\bin\Debug\itextsharp.xml
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\obj\Debug\Ejemplo pdf.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\obj\Debug\Ejemplo_pdf.Form1.resources
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\obj\Debug\Ejemplo_pdf.Resources.resources
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\obj\Debug\Ejemplo pdf.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\obj\Debug\Ejemplo pdf.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\obj\Debug\Ejemplo pdf.vbproj.CopyComplete
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\obj\Debug\Ejemplo pdf.exe
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\obj\Debug\Ejemplo pdf.xml
+C:\Users\User\source\repos\Ejemplo pdf\Ejemplo pdf\obj\Debug\Ejemplo pdf.pdb

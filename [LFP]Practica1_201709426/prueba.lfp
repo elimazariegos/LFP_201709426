@@ -1,0 +1,13 @@
+VAR (total, precio1, otrosgastos,totalgastos); VAR ( subtotal ,descuento,parqueo);
+ASIG(parqueo,10); OPERA precio1 SUMA ( 20, 30.20 );
+OPERA otrosgastos SUMA (parqueo, 60.30 ,20);
+OPERA totalgastos SUMA(precio1, otrosgastos); ASIG (descuento,5);
+OPERA subtotal RESTA(totalgastos, descuento);
+/* Los precios de los
+productos y el subtotal */
+SALIDA ("El precio del primer producto es  " precio1);
+SALIDA ("El total de otros gastos es de  " otrosgastos);
+SALIDA ("El descuento fue de  ",descuento); SALIDA ("El subtotal a pagar fue de ",total);
+//otro gasto
+VAR(extra); ASIG(extra,40) ; OPERA total SUMA(subtotal, extra);
+SALIDA ("El total a pagar es de ",total);	
